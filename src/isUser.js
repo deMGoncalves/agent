@@ -1,4 +1,4 @@
-import * as f from '@rex/f'
+import * as f from 'f'
 import isBot from './isBot'
 
 export default f.not(isBot)
