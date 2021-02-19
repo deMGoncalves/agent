@@ -25,7 +25,6 @@
     "main": "dist/index.js",
     "name": "agent",
     "scripts": {
-      "install": "ttsc",
       "postinstall": "husky install",
       "start": "jest --watchAll",
       "test": "jest --passWithNoTests"
