@@ -3179,8 +3179,10 @@ jest@^26.6.3:
     jest-cli "^26.6.3"
 
 jestconfig@deMGoncalves/jestconfig:
-  version "0.0.0"
-  resolved "https://codeload.github.com/deMGoncalves/jestconfig/tar.gz/947fd17a18e91a7788a6ec0900551f3911c78ff3"
+  version "1.0.0"
+  resolved "https://codeload.github.com/deMGoncalves/jestconfig/tar.gz/e25d71535403d7c716bf1c304780fe3469de6c14"
+  dependencies:
+    f deMGoncalves/f
 
 js-tokens@^4.0.0:
   version "4.0.0"
