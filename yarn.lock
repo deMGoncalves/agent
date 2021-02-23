@@ -1893,8 +1893,8 @@ eslint@^7.19.0:
     v8-compile-cache "^2.0.3"
 
 eslintrc@deMGoncalves/eslintrc:
-  version "0.0.0"
-  resolved "https://codeload.github.com/deMGoncalves/eslintrc/tar.gz/4cce19d43fdf710032cdbfc1cb78228757ecf5e0"
+  version "1.0.0"
+  resolved "https://codeload.github.com/deMGoncalves/eslintrc/tar.gz/4366a7369e99b4d46400abd16b41bc13f5cd4cb7"
 
 espree@^7.3.0, espree@^7.3.1:
   version "7.3.1"
