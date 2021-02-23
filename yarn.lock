@@ -1373,8 +1373,8 @@ combined-stream@^1.0.6, combined-stream@~1.0.6:
     delayed-stream "~1.0.0"
 
 commitlintconfig@deMGoncalves/commitlintconfig:
-  version "0.0.0"
-  resolved "https://codeload.github.com/deMGoncalves/commitlintconfig/tar.gz/abd23f15d97cade3f134969b01ba85e214d37fbd"
+  version "1.0.0"
+  resolved "https://codeload.github.com/deMGoncalves/commitlintconfig/tar.gz/ca2a14ab2344f465acd0d61df2bc49cd01cd6a6b"
 
 compare-func@^2.0.0:
   version "2.0.0"
@@ -1895,6 +1895,8 @@ eslint@^7.19.0:
 eslintrc@deMGoncalves/eslintrc:
   version "1.0.0"
   resolved "https://codeload.github.com/deMGoncalves/eslintrc/tar.gz/4366a7369e99b4d46400abd16b41bc13f5cd4cb7"
+  dependencies:
+    f deMGoncalves/f
 
 espree@^7.3.0, espree@^7.3.1:
   version "7.3.1"
